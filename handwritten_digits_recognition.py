@@ -4,7 +4,7 @@ import numpy as np
 import tensorflow as tf
 import matplotlib.pyplot as plt
 
-print("Made By Soumya Brajwasi and Paras Joshi")
+print("Made By Paras Joshi")
 train_new_model = True
 if train_new_model:
     
